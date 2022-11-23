@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Sudoku.iml" filepath="$PROJECT_DIR$/.idea/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SudokuGame/SudokuGame.iml" filepath="$PROJECT_DIR$/SudokuGame/SudokuGame.iml" />
     </modules>
   </component>
 </project>
